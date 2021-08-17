@@ -19,8 +19,4 @@ if (6 <= hour && hour < 12) {
   greeting = CONFIG.greetingNight(CONFIG.name);
 }
 
-if (CONFIG.greetingAsPlaceholder) {
-  document.getElementById('searchBar').placeholder = greeting;
-} else {
-  document.getElementById('greetings').innerText = greeting;
-}
+document.getElementById('greetings').innerText = greeting;
