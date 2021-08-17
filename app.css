@@ -204,9 +204,14 @@ body {
 #searchBar {
   text-align: center;
   width: 80%;
-  /* height: 40px; */
   padding: 10px;
   font-size: 30px;
+  background-color: var(--bg);
+  color: var(--fg);
+  border: 2px solid var(--sfg);
+  border-radius: 10px;
+  outline: none;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .buttonLink {

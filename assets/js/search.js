@@ -12,5 +12,8 @@ const runSearch = () => {
 document.getElementById('searchBar').addEventListener('keydown', e => {
   if (e.key == 'Enter') {
     runSearch();
+    if (CONFIG.clearSearchOnEnter) {
+        document.getElementById('searchBar').value = '';
+    }
   }
 });

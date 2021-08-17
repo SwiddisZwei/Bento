@@ -31,6 +31,8 @@ const CONFIG = {
   defaultLongitude: '-122.419',
 
   searchBarLink: (query) => `https://duckduckgo.com/?q=${query}`,
+  clearSearchOnEnter: true,
+  greetingAsPlaceholder: false,
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
