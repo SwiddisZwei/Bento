@@ -1,23 +1,24 @@
+![image](assets/img/header.png)
 
-![image](assets/img/Header.png)
 
-<div align="center">
-    <b>🍱 Minimalist, elegant and simple startpage inspired by the Bento box!</b>
-</div>
+<p style="margin: -20px 0 30px">
+  <a href="https://www.buymeacoffee.com/migueravila" target="_blank" style='margin-right:0px; margin-top:5px'>
+    <img align="center" src="https://github.com/migueravila/Bento/blob/master/assets/img/donation.png" alt="donation" height="35px" />
+  </a>
 
-<br />
-<br />
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/migueravila)
+  <a href="https://migueravila.github.io/Bento/" target="_blank" style='margin-right:0px; margin-top:5px'>
+    <img align="center" src="https://github.com/migueravila/Bento/blob/master/assets/img/live.png" alt="live-preview" height="35px" />
+  </a> 
+</p>
 
 <br />
 
 ## 👇 Index
 - [👇 Index](#-index)
-- [✨ Features:](#-features)
-- [🚀 Usage:](#-usage)
-    - [As Home Page:](#as-home-page)
-    - [As New Tab:](#as-new-tab)
+- [✨ Features](#-features)
+- [🚀 Usage](#-usage)
+    - [As Home Page](#as-home-page)
+    - [As New Tab](#as-new-tab)
 - [🎨 Customization](#-customization)
   - [👋 General: Name, Image Background and Greetings](#-general-name-image-background-and-greetings)
   - [🏷️ Button Links](#️-button-links)
@@ -26,7 +27,7 @@
   - [💛 Colors](#-colors)
 
 
-## ✨ Features:
+## ✨ Features
 
 - **Easy configuration** file.
 - **Dark/Light** mode, you can toggle them and It'll be saved in local storage.
@@ -36,9 +37,9 @@
 - **Icons** all icons are from Feather Icons (Some others I made them with the Feather icons as a base)
 - **Modular** javascript files for an easy read.
 
-## 🚀 Usage:
+## 🚀 Usage
 
-#### As Home Page:
+#### As Home Page
 
 1. Fork this repo
 2. Enable the Github Pages service `Settings > GitHub Pages > Source [master branch] > Save`
@@ -47,7 +48,7 @@
    - Click the Home panel.
    - Click the menu next to Homepage and new windows and choose to show custom URLs and add your `Github Pages link`
 
-#### As New Tab:
+#### As New Tab
 
 You can use different Add-ons/Extensions for it
 
